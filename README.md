@@ -1,5 +1,5 @@
-# BattleSimFantasy Documentation
-##### Last Updated - 3.14.18
+# BattleSimFantasy v1.0
+##### Last Updated: 3.14.18
 
 ### Founders
 
