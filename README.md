@@ -3,12 +3,8 @@
 
 ### Project Founders
 
-#### Nick Fennell
-> Co-Founder
-> 
+#### Nick Fennell - Co-Founder
 > Sole Developer
 
-#### Brennan Cross
-> Co-Founder
->
+#### Brennan Cross - Co-Founder
 > Creative Director
